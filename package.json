@@ -1,0 +1,30 @@
+{
+  "name": "nodestarter",
+  "version": "1.0.0",
+  "description": "Node application for creating and testing cli based dummy database seeder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakharSambhav1/NodeStarter.git"
+  },
+  "keywords": [
+    "Git",
+    "NodeStarter",
+    "NodeTemplate",
+    "CliPrototype"
+  ],
+  "author": "PrakharSambhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakharSambhav1/NodeStarter/issues"
+  },
+  "homepage": "https://github.com/PrakharSambhav1/NodeStarter#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25"
+  }
+}
